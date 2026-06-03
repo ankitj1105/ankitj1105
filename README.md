@@ -1,3 +1,10 @@
+Hi, I'm Ankit Kumar Jha, a Computer Science undergraduate passionate about Software Engineering, Mobile Application Development, Artificial Intelligence, and scalable system design.
+
+I have hands-on experience building real-time mobile and web applications using Flutter, Firebase, ASP.NET MVC, and modern development tools. My projects range from AI-powered productivity platforms and real-time communication systems to full-stack management and e-commerce applications.
+
+I enjoy solving complex problems through Data Structures & Algorithms and continuously strengthen my knowledge of Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, System Design, and Software Architecture.
+
+My interests lie in building impactful technology products, exploring AI/ML applications, developing scalable software solutions, and contributing to innovative engineering teams.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kumar-jha-a8b1832a8) 
